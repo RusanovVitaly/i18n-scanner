@@ -1,0 +1,20 @@
+{
+  "name": "flexi-i18n-scanner",
+  "version": "1.9.0",
+  "description": "",
+  "main": "bin/i18next.js",
+  "keywords": [],
+  "author": "WokeOwl",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "i18next-scanner": "^4.1.0"
+  },
+  "bin": {
+    "flexi-i18n-scanner": "bin/i18next.js"
+  },
+  "files": [
+    "gulpfile.js"
+  ]
+}
